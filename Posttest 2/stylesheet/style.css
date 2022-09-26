@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight&display=swap');
+
+.header {
+    background-color: #562B08;
+    height: 60px;
+}
+
+.header-logo {
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Inter Tight', sans-serif;
+    color: whitesmoke;
+}
+
+.header-list li {
+    font-family: 'Inter Tight', sans-serif;
+    margin: 10px;
+    padding: 10px;
+    float: right;
+    list-style: none;
+    color: whitesmoke;
+}
+
+.header-search-bar {
+    margin: 8px;
+    padding: 10px;
+    padding-right: 120px;
+    float: right;
+}
+
+.resizedTextbox {
+    width: 360px;
+    height: 20px;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Inter Tight', sans-serif;
+    color: #562B08;
+    padding-left: 550px;
+}
+
+.img-content{
+    margin: 5px;
+    float: left;
+}
+
+.section-tittle {
+    color: #562B08;
+    margin: 15px;
+}
+
+.footer {
+    margin-top: 230px;
+    background-color: #562B08;
+    height: 50px;
+}
+
+.footer-logo {
+    padding-left: 527px;
+    padding-top: 8px;
+    font-size: 12px;
+    font-family: 'Inter Tight', sans-serif;
+    color: whitesmoke;
+}
+
+.teks {
+    margin: 12px;
+    padding: 12px;
+    font-size: 20px;
+    font-family: 'Inter Tight', sans-serif;
+    color: whitesmoke;
+}
+
+.biodata {
+    padding-right: 170px;
+    float: right;
+}
+
+p {
+    font-size: 18px;
+}
+
+.fotoku {
+    margin-top: 10px;
+}
+
